@@ -801,7 +801,7 @@
     <admarkt:brand>ToolLine</admarkt:brand>
     <admarkt:condition>new</admarkt:condition>
     <admarkt:attributes><admarkt:attribute><admarkt:attributeName>condition</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Nieuw</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerTradename</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Smulders e-commerce</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerAddress</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Carmen 10, 4564EW Sint-Jansteen</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerEmail</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>info@smuldersecommerce.nl</admarkt:attributeValue></admarkt:attribute></admarkt:attributes>
-    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>1d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
+    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>2d-5d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>8721161813453</admarkt:vendorId>
