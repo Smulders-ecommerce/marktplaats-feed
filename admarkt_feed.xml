@@ -20,7 +20,7 @@
     <admarkt:brand>ToolLine</admarkt:brand>
     <admarkt:condition>new</admarkt:condition>
     <admarkt:attributes><admarkt:attribute><admarkt:attributeName>condition</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Nieuw</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerTradename</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Smulders e-commerce</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerAddress</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Carmen 10, 4564EW Sint-Jansteen</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerEmail</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>info@smuldersecommerce.nl</admarkt:attributeValue></admarkt:attribute></admarkt:attributes>
-    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>2d-5d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
+    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>1d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>8721161813255</admarkt:vendorId>
@@ -42,7 +42,7 @@
     <admarkt:brand>ToolLine</admarkt:brand>
     <admarkt:condition>new</admarkt:condition>
     <admarkt:attributes><admarkt:attribute><admarkt:attributeName>condition</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Nieuw</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerTradename</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Smulders e-commerce</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerAddress</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Carmen 10, 4564EW Sint-Jansteen</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerEmail</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>info@smuldersecommerce.nl</admarkt:attributeValue></admarkt:attribute></admarkt:attributes>
-    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>2d-5d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
+    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>1d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>8721161813323</admarkt:vendorId>
@@ -86,7 +86,7 @@
     <admarkt:brand>ToolLine</admarkt:brand>
     <admarkt:condition>new</admarkt:condition>
     <admarkt:attributes><admarkt:attribute><admarkt:attributeName>condition</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Nieuw</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerTradename</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Smulders e-commerce</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerAddress</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Carmen 10, 4564EW Sint-Jansteen</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerEmail</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>info@smuldersecommerce.nl</admarkt:attributeValue></admarkt:attribute></admarkt:attributes>
-    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>2d-5d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
+    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>1d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>8721161813231</admarkt:vendorId>
@@ -108,7 +108,7 @@
     <admarkt:brand>ToolLine</admarkt:brand>
     <admarkt:condition>new</admarkt:condition>
     <admarkt:attributes><admarkt:attribute><admarkt:attributeName>condition</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Nieuw</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerTradename</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Smulders e-commerce</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerAddress</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Carmen 10, 4564EW Sint-Jansteen</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerEmail</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>info@smuldersecommerce.nl</admarkt:attributeValue></admarkt:attribute></admarkt:attributes>
-    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>2d-5d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
+    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>1d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>8721161813002</admarkt:vendorId>
@@ -130,7 +130,7 @@
     <admarkt:brand>ToolLine</admarkt:brand>
     <admarkt:condition>new</admarkt:condition>
     <admarkt:attributes><admarkt:attribute><admarkt:attributeName>condition</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Nieuw</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerTradename</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Smulders e-commerce</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerAddress</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Carmen 10, 4564EW Sint-Jansteen</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerEmail</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>info@smuldersecommerce.nl</admarkt:attributeValue></admarkt:attribute></admarkt:attributes>
-    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>2d-5d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
+    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>1d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>8721161813187</admarkt:vendorId>
@@ -152,7 +152,7 @@
     <admarkt:brand>ToolLine</admarkt:brand>
     <admarkt:condition>new</admarkt:condition>
     <admarkt:attributes><admarkt:attribute><admarkt:attributeName>condition</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Nieuw</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerTradename</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Smulders e-commerce</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerAddress</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Carmen 10, 4564EW Sint-Jansteen</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerEmail</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>info@smuldersecommerce.nl</admarkt:attributeValue></admarkt:attribute></admarkt:attributes>
-    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>2d-5d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
+    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>1d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>8721161813194</admarkt:vendorId>
@@ -174,7 +174,7 @@
     <admarkt:brand>ToolLine</admarkt:brand>
     <admarkt:condition>new</admarkt:condition>
     <admarkt:attributes><admarkt:attribute><admarkt:attributeName>condition</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Nieuw</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerTradename</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Smulders e-commerce</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerAddress</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Carmen 10, 4564EW Sint-Jansteen</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerEmail</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>info@smuldersecommerce.nl</admarkt:attributeValue></admarkt:attribute></admarkt:attributes>
-    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>2d-5d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
+    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>1d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>8721161813200</admarkt:vendorId>
@@ -196,7 +196,7 @@
     <admarkt:brand>ToolLine</admarkt:brand>
     <admarkt:condition>new</admarkt:condition>
     <admarkt:attributes><admarkt:attribute><admarkt:attributeName>condition</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Nieuw</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerTradename</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Smulders e-commerce</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerAddress</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Carmen 10, 4564EW Sint-Jansteen</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerEmail</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>info@smuldersecommerce.nl</admarkt:attributeValue></admarkt:attribute></admarkt:attributes>
-    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>2d-5d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
+    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>1d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>8721161813293</admarkt:vendorId>
@@ -218,7 +218,7 @@
     <admarkt:brand>ToolLine</admarkt:brand>
     <admarkt:condition>new</admarkt:condition>
     <admarkt:attributes><admarkt:attribute><admarkt:attributeName>condition</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Nieuw</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerTradename</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Smulders e-commerce</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerAddress</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Carmen 10, 4564EW Sint-Jansteen</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerEmail</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>info@smuldersecommerce.nl</admarkt:attributeValue></admarkt:attribute></admarkt:attributes>
-    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>2d-5d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
+    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>1d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>8721161813316</admarkt:vendorId>
@@ -262,7 +262,7 @@
     <admarkt:brand>ToolLine</admarkt:brand>
     <admarkt:condition>new</admarkt:condition>
     <admarkt:attributes><admarkt:attribute><admarkt:attributeName>condition</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Nieuw</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerTradename</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Smulders e-commerce</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerAddress</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Carmen 10, 4564EW Sint-Jansteen</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerEmail</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>info@smuldersecommerce.nl</admarkt:attributeValue></admarkt:attribute></admarkt:attributes>
-    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>2d-5d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
+    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>1d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>8721161813330</admarkt:vendorId>
@@ -284,7 +284,7 @@
     <admarkt:brand>ToolLine</admarkt:brand>
     <admarkt:condition>new</admarkt:condition>
     <admarkt:attributes><admarkt:attribute><admarkt:attributeName>condition</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Nieuw</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerTradename</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Smulders e-commerce</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerAddress</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Carmen 10, 4564EW Sint-Jansteen</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerEmail</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>info@smuldersecommerce.nl</admarkt:attributeValue></admarkt:attribute></admarkt:attributes>
-    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>2d-5d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
+    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>1d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>8721161813118</admarkt:vendorId>
@@ -306,7 +306,7 @@
     <admarkt:brand>ToolLine</admarkt:brand>
     <admarkt:condition>new</admarkt:condition>
     <admarkt:attributes><admarkt:attribute><admarkt:attributeName>condition</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Nieuw</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerTradename</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Smulders e-commerce</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerAddress</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Carmen 10, 4564EW Sint-Jansteen</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerEmail</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>info@smuldersecommerce.nl</admarkt:attributeValue></admarkt:attribute></admarkt:attributes>
-    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>2d-5d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
+    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>1d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>8721161813125</admarkt:vendorId>
@@ -328,7 +328,7 @@
     <admarkt:brand>ToolLine</admarkt:brand>
     <admarkt:condition>new</admarkt:condition>
     <admarkt:attributes><admarkt:attribute><admarkt:attributeName>condition</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Nieuw</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerTradename</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Smulders e-commerce</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerAddress</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Carmen 10, 4564EW Sint-Jansteen</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerEmail</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>info@smuldersecommerce.nl</admarkt:attributeValue></admarkt:attribute></admarkt:attributes>
-    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>2d-5d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
+    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>1d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>8721161813385</admarkt:vendorId>
@@ -350,7 +350,7 @@
     <admarkt:brand>ToolLine</admarkt:brand>
     <admarkt:condition>new</admarkt:condition>
     <admarkt:attributes><admarkt:attribute><admarkt:attributeName>condition</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Nieuw</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerTradename</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Smulders e-commerce</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerAddress</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Carmen 10, 4564EW Sint-Jansteen</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerEmail</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>info@smuldersecommerce.nl</admarkt:attributeValue></admarkt:attribute></admarkt:attributes>
-    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>2d-5d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
+    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>1d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>8721161813071</admarkt:vendorId>
@@ -372,7 +372,7 @@
     <admarkt:brand>ToolLine</admarkt:brand>
     <admarkt:condition>new</admarkt:condition>
     <admarkt:attributes><admarkt:attribute><admarkt:attributeName>condition</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Nieuw</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerTradename</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Smulders e-commerce</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerAddress</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Carmen 10, 4564EW Sint-Jansteen</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerEmail</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>info@smuldersecommerce.nl</admarkt:attributeValue></admarkt:attribute></admarkt:attributes>
-    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>2d-5d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
+    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>1d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>8721161813064</admarkt:vendorId>
@@ -394,7 +394,7 @@
     <admarkt:brand>ToolLine</admarkt:brand>
     <admarkt:condition>new</admarkt:condition>
     <admarkt:attributes><admarkt:attribute><admarkt:attributeName>condition</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Nieuw</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerTradename</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Smulders e-commerce</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerAddress</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Carmen 10, 4564EW Sint-Jansteen</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerEmail</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>info@smuldersecommerce.nl</admarkt:attributeValue></admarkt:attribute></admarkt:attributes>
-    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>2d-5d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
+    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>1d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>8721161813088</admarkt:vendorId>
@@ -416,7 +416,7 @@
     <admarkt:brand>ToolLine</admarkt:brand>
     <admarkt:condition>new</admarkt:condition>
     <admarkt:attributes><admarkt:attribute><admarkt:attributeName>condition</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Nieuw</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerTradename</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Smulders e-commerce</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerAddress</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Carmen 10, 4564EW Sint-Jansteen</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerEmail</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>info@smuldersecommerce.nl</admarkt:attributeValue></admarkt:attribute></admarkt:attributes>
-    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>2d-5d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
+    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>1d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>8721161813095</admarkt:vendorId>
@@ -460,7 +460,7 @@
     <admarkt:brand>ToolLine</admarkt:brand>
     <admarkt:condition>new</admarkt:condition>
     <admarkt:attributes><admarkt:attribute><admarkt:attributeName>condition</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Nieuw</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerTradename</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Smulders e-commerce</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerAddress</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Carmen 10, 4564EW Sint-Jansteen</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerEmail</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>info@smuldersecommerce.nl</admarkt:attributeValue></admarkt:attribute></admarkt:attributes>
-    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>2d-5d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
+    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>1d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>8721161813026</admarkt:vendorId>
@@ -592,7 +592,7 @@
     <admarkt:brand>ToolLine</admarkt:brand>
     <admarkt:condition>new</admarkt:condition>
     <admarkt:attributes><admarkt:attribute><admarkt:attributeName>condition</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Nieuw</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerTradename</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Smulders e-commerce</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerAddress</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Carmen 10, 4564EW Sint-Jansteen</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerEmail</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>info@smuldersecommerce.nl</admarkt:attributeValue></admarkt:attribute></admarkt:attributes>
-    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>2d-5d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
+    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>1d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>8721161813132</admarkt:vendorId>
@@ -614,7 +614,7 @@
     <admarkt:brand>ToolLine</admarkt:brand>
     <admarkt:condition>new</admarkt:condition>
     <admarkt:attributes><admarkt:attribute><admarkt:attributeName>condition</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Nieuw</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerTradename</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Smulders e-commerce</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerAddress</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Carmen 10, 4564EW Sint-Jansteen</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerEmail</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>info@smuldersecommerce.nl</admarkt:attributeValue></admarkt:attribute></admarkt:attributes>
-    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>2d-5d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
+    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>1d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>8721161813149</admarkt:vendorId>
@@ -636,7 +636,7 @@
     <admarkt:brand>ToolLine</admarkt:brand>
     <admarkt:condition>new</admarkt:condition>
     <admarkt:attributes><admarkt:attribute><admarkt:attributeName>condition</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Nieuw</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerTradename</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Smulders e-commerce</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerAddress</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Carmen 10, 4564EW Sint-Jansteen</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerEmail</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>info@smuldersecommerce.nl</admarkt:attributeValue></admarkt:attribute></admarkt:attributes>
-    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>2d-5d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
+    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>1d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>8721161813156</admarkt:vendorId>
@@ -658,7 +658,7 @@
     <admarkt:brand>ToolLine</admarkt:brand>
     <admarkt:condition>new</admarkt:condition>
     <admarkt:attributes><admarkt:attribute><admarkt:attributeName>condition</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Nieuw</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerTradename</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Smulders e-commerce</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerAddress</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Carmen 10, 4564EW Sint-Jansteen</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerEmail</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>info@smuldersecommerce.nl</admarkt:attributeValue></admarkt:attribute></admarkt:attributes>
-    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>2d-5d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
+    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>1d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>8721161813378</admarkt:vendorId>
@@ -680,7 +680,7 @@
     <admarkt:brand>Kamaat</admarkt:brand>
     <admarkt:condition>new</admarkt:condition>
     <admarkt:attributes><admarkt:attribute><admarkt:attributeName>condition</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Nieuw</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerTradename</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Smulders e-commerce</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerAddress</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Carmen 10, 4564EW Sint-Jansteen</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerEmail</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>info@smuldersecommerce.nl</admarkt:attributeValue></admarkt:attribute></admarkt:attributes>
-    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>2d-5d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
+    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>1d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>8721161813361</admarkt:vendorId>
@@ -703,7 +703,7 @@
     <admarkt:brand>Kamaat</admarkt:brand>
     <admarkt:condition>new</admarkt:condition>
     <admarkt:attributes><admarkt:attribute><admarkt:attributeName>condition</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Nieuw</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerTradename</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Smulders e-commerce</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerAddress</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Carmen 10, 4564EW Sint-Jansteen</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerEmail</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>info@smuldersecommerce.nl</admarkt:attributeValue></admarkt:attribute></admarkt:attributes>
-    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>2d-5d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
+    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>1d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>8721161813279</admarkt:vendorId>
@@ -726,7 +726,7 @@
     <admarkt:brand>Kamaat</admarkt:brand>
     <admarkt:condition>new</admarkt:condition>
     <admarkt:attributes><admarkt:attribute><admarkt:attributeName>condition</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Nieuw</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerTradename</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Smulders e-commerce</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerAddress</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Carmen 10, 4564EW Sint-Jansteen</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerEmail</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>info@smuldersecommerce.nl</admarkt:attributeValue></admarkt:attribute></admarkt:attributes>
-    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>2d-5d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
+    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>1d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>8721161813392</admarkt:vendorId>
@@ -748,7 +748,7 @@
     <admarkt:brand>ToolLine</admarkt:brand>
     <admarkt:condition>new</admarkt:condition>
     <admarkt:attributes><admarkt:attribute><admarkt:attributeName>condition</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Nieuw</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerTradename</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Smulders e-commerce</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerAddress</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Carmen 10, 4564EW Sint-Jansteen</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerEmail</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>info@smuldersecommerce.nl</admarkt:attributeValue></admarkt:attribute></admarkt:attributes>
-    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>2d-5d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
+    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>1d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>8721161813217</admarkt:vendorId>
@@ -770,7 +770,7 @@
     <admarkt:brand>ToolLine</admarkt:brand>
     <admarkt:condition>new</admarkt:condition>
     <admarkt:attributes><admarkt:attribute><admarkt:attributeName>condition</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Nieuw</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerTradename</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Smulders e-commerce</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerAddress</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Carmen 10, 4564EW Sint-Jansteen</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerEmail</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>info@smuldersecommerce.nl</admarkt:attributeValue></admarkt:attribute></admarkt:attributes>
-    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>2d-5d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
+    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>1d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>8721161813163</admarkt:vendorId>
@@ -792,7 +792,7 @@
     <admarkt:brand>ToolLine</admarkt:brand>
     <admarkt:condition>new</admarkt:condition>
     <admarkt:attributes><admarkt:attribute><admarkt:attributeName>condition</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Nieuw</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerTradename</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Smulders e-commerce</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerAddress</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Carmen 10, 4564EW Sint-Jansteen</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerEmail</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>info@smuldersecommerce.nl</admarkt:attributeValue></admarkt:attribute></admarkt:attributes>
-    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>2d-5d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
+    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>1d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>8721161813170</admarkt:vendorId>
@@ -814,12 +814,12 @@
     <admarkt:brand>ToolLine</admarkt:brand>
     <admarkt:condition>new</admarkt:condition>
     <admarkt:attributes><admarkt:attribute><admarkt:attributeName>condition</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Nieuw</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerTradename</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Smulders e-commerce</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerAddress</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Carmen 10, 4564EW Sint-Jansteen</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerEmail</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>info@smuldersecommerce.nl</admarkt:attributeValue></admarkt:attribute></admarkt:attributes>
-    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>2d-5d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
+    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>1d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>8721161813347</admarkt:vendorId>
     <admarkt:title>ToolLine | Kruislijnlaser met statief | 4 x 360° | 16-lijnen</admarkt:title>
-    <admarkt:description><![CDATA[<p><strong>Direct te bestellen via bol.com: veilig betalen en snel in huis.</strong></p><br><p><strong>ToolLine 360° Kruislijnlaser, 16 Lijnen </strong></p><br><p><br>Werk nauwkeurig en efficiënt met de ToolLine TL-T619 kruislijnlaser 360 graden. Deze krachtige zelf nivellerende kruislijnlaser projecteert 16 heldere groene lijnen (8 horizontaal en 8 verticaal) rondom in 360°, ideaal voor het uitlijnen van wanden, plafonds, vloeren, tegels en meubels. Ontwikkeld voor zowel professionals als de serieuze doe-het-zelver.</p><br><p><strong>Waarom kiezen voor deze ToolLine kruislijnlaser met statief:</strong></p><br><ul> <li>360° horizontale en verticale projectie met 4 vlakverdelingen</li> <li>Zelf nivellerend tot ±4° op ongelijke oppervlakken</li> <li>Handmatige modus voor schuine lijnen</li> <li>Puls modus voor gebruik met een laserontvanger tot 50 meter bereik</li> <li>Groene laser tot 4x beter zichtbaar dan rood, ook overdag</li> </ul><br><p><strong>Ideaal voor diverse toepassingen</strong></p><br><p><strong>Deze kruislijnlaser zelf nivellerend is geschikt voor uiteenlopende klussen, zoals:</strong></p><br><ul> <li>Tegelwerk en vloeren leggen</li> <li>Plafondmontage en verlichtingsinstallatie</li> <li>Wandkasten en interieurmontage</li> <li>Kozijnmontage en scheidingswanden plaatsen</li> <li>Robuust en betrouwbaar voor langdurig gebruik</li> </ul><br><p><strong><br>De TL-T619 is ontworpen voor intensieve en langdurige inzet op de werkplaats of thuis:</strong></p><br><ul> <li>IP54-geclassificeerd: stof- en spatwaterdicht</li> <li>Sterke behuizing, bestand tegen ruwe omstandigheden</li> <li>Wordt geleverd met afstandsbediening voor bediening op afstand</li> </ul><br><p><strong>Lange werktijd en snel opladen via USB-C</strong></p><br><p>De oplaadbare 3,6Ah lithium-ion batterij biedt een lange gebruiksduur. Via de USB-C poort laad je eenvoudig op met een adapter, powerbank of laptop. Ideaal voor lange werkuren zonder onderbreking.</p><br><p><strong>Compleet geleverd, direct klaar voor gebruik</strong></p><br><p><strong>Deze set wordt compleet geleverd met alle accessoires die je nodig hebt voor nauwkeurig en efficiënt werken:</strong></p><br><ul> <li>ToolLine TL-T619 kruislijnlaser</li> <li>2 oplaadbare 3,6Ah batterijen</li> <li>USB-C oplaadkabel</li> <li>Opbergkoffer</li> <li>Magnetische wandhouder</li> <li>Statief</li> <li>Afstandsbediening</li> <li>Klembeugel</li> <li>Laserbril</li> <li>Adapter</li> <li>Montageplaat</li> </ul><br><p><strong>Technische specificaties</strong></p><br><p><strong>Merk:</strong> ToolLine</p><br><p><strong>Model:</strong> TL-T619</p><br><p><strong>Kleur laser:</strong> Groen</p><br><p><strong>Aantal lijnen:</strong> 16 (4 x 360°)</p><br><p><strong>Nivellering:</strong> Automatisch tot ± 4°, handmatig en puls modus</p><br><p><strong>Laserklasse: </strong>Klasse II, &lt;1mW</p><br><p><strong>Bereik:</strong> Tot 30 meter (50 meter met ontvanger, niet inbegrepen)</p><br><p><strong>Batterij:</strong> 3,6 Ah lithium-ion, oplaadbaar via USB-C</p><br><p><strong>Bescherming:</strong> IP54 (stof- en spatwaterdicht)</p><br><p><strong>Garantie:</strong> 2 jaar fabrieksgarantie</p><br><p><strong>© Copyright 2025 Smulders e-commerce, alle rechten voorbehouden.</strong></p>]]></admarkt:description>
+    <admarkt:description><![CDATA[<p><strong>Direct te bestellen via bol.com: veilig betalen en snel in huis.</strong></p><br><p><strong>ToolLine 4D Kruislijnlaser met statief – 16 groene lijnen</strong></p><br><p>De ToolLine 4D kruislijnlaser met statief is een zelfnivellerende groene bouwlaser en laser waterpas met 16 lijnen (4 × 360°). Werk nauwkeurig en efficiënt met de ToolLine TL-T619: 4D, 4 × 360°, 16 heldere groene lijnen rondom, ideaal voor het uitlijnen van wanden, plafonds, vloeren, tegels en meubels. Ontwikkeld voor zowel professionals als de serieuze doe-het-zelver.</p><br><p><strong>Waarom kiezen voor deze ToolLine kruislijnlaser met statief:</strong></p><br><ul> <li>4D: 4 × 360° horizontale en verticale projectie met 16 groene lijnen</li> <li>Zelf nivellerend tot ±4° op ongelijke oppervlakken</li> <li>Handmatige modus voor schuine lijnen</li> <li>Puls modus voor gebruik met een laserontvanger tot 50 meter bereik</li> <li>Groene laser tot 4x beter zichtbaar dan rood, ook overdag</li> </ul><br><p><strong>Ideaal voor diverse toepassingen</strong></p><br><p><strong>Deze kruislijnlaser zelf nivellerend is geschikt voor uiteenlopende klussen, zoals:</strong></p><br><ul> <li>Tegelwerk en vloeren leggen</li> <li>Plafondmontage en verlichtingsinstallatie</li> <li>Wandkasten en interieurmontage</li> <li>Kozijnmontage en scheidingswanden plaatsen</li> <li>Robuust en betrouwbaar voor langdurig gebruik</li> </ul><br><p><strong> <br> De TL-T619 is ontworpen voor intensieve en langdurige inzet op de werkplaats of thuis: </strong></p><br><ul> <li>IP54-geclassificeerd: stof- en spatwaterdicht</li> <li>Sterke behuizing, bestand tegen ruwe omstandigheden</li> <li>Wordt geleverd met afstandsbediening voor bediening op afstand</li> </ul><br><p><strong>Lange werktijd en snel opladen via USB-C</strong></p><br><p>De oplaadbare 3,6Ah lithium-ion batterij biedt een lange gebruiksduur. Via de USB-C poort laad je eenvoudig op met een adapter, powerbank of laptop. Ideaal voor lange werkuren zonder onderbreking.</p><br><p><strong>Compleet geleverd, direct klaar voor gebruik</strong></p><br><p><strong>Deze set wordt compleet geleverd met alle accessoires die je nodig hebt voor nauwkeurig en efficiënt werken:</strong></p><br><ul> <li>ToolLine TL-T619 kruislijnlaser</li> <li>2 oplaadbare 3,6Ah batterijen</li> <li>USB-C oplaadkabel</li> <li>Opbergkoffer</li> <li>Magnetische wandhouder</li> <li>Statief</li> <li>Afstandsbediening</li> <li>Klembeugel</li> <li>Laserbril</li> <li>Adapter</li> <li>Montageplaat</li> </ul><br><p><strong>Technische specificaties</strong></p><br><p><strong>Merk:</strong> ToolLine</p><br><p><strong>Model:</strong> TL-T619</p><br><p><strong>Kleur laser:</strong> Groen</p><br><p><strong>Aantal lijnen:</strong> 4D, 16 groene lijnen (4 × 360°)</p><br><p><strong>Nivellering:</strong> Automatisch tot ± 4°, handmatig en puls modus</p><br><p><strong>Laserklasse: </strong>Klasse II, &lt;1mW</p><br><p><strong>Bereik:</strong> Tot 30 meter (50 meter met ontvanger, niet inbegrepen)</p><br><p><strong>Batterij:</strong> 3,6 Ah lithium-ion, oplaadbaar via USB-C</p><br><p><strong>Bescherming:</strong> IP54 (stof- en spatwaterdicht)</p><br><p><strong>Garantie:</strong> 2 jaar fabrieksgarantie</p><br><p>© Copyright 2025 Smulders e-commerce, alle rechten voorbehouden.</p>]]></admarkt:description>
     <admarkt:categoryId>1399</admarkt:categoryId>
     <admarkt:status>PAUSED</admarkt:status>
     <admarkt:url>https://www.bol.com/nl/nl/p/toolline-kruislijnlaser-met-statief-4-x-360-16-lijnen-2x-3-6-ah-accu-s-lijnlaser-kruislijnlaser-zelfnivellerend-kruislijnlasers/9300000233648951/</admarkt:url>
@@ -837,7 +837,7 @@
     <admarkt:brand>ToolLine</admarkt:brand>
     <admarkt:condition>new</admarkt:condition>
     <admarkt:attributes><admarkt:attribute><admarkt:attributeName>condition</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Nieuw</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerTradename</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Smulders e-commerce</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerAddress</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Carmen 10, 4564EW Sint-Jansteen</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerEmail</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>info@smuldersecommerce.nl</admarkt:attributeValue></admarkt:attribute></admarkt:attributes>
-    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>2d-5d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
+    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>1d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>8721161813248</admarkt:vendorId>
@@ -859,7 +859,7 @@
     <admarkt:brand>ToolLine</admarkt:brand>
     <admarkt:condition>new</admarkt:condition>
     <admarkt:attributes><admarkt:attribute><admarkt:attributeName>condition</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Nieuw</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerTradename</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Smulders e-commerce</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerAddress</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Carmen 10, 4564EW Sint-Jansteen</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerEmail</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>info@smuldersecommerce.nl</admarkt:attributeValue></admarkt:attribute></admarkt:attributes>
-    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>2d-5d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
+    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>1d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>8721161813309</admarkt:vendorId>
@@ -882,7 +882,7 @@
     <admarkt:brand>ToolLine</admarkt:brand>
     <admarkt:condition>new</admarkt:condition>
     <admarkt:attributes><admarkt:attribute><admarkt:attributeName>condition</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Nieuw</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerTradename</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Smulders e-commerce</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerAddress</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Carmen 10, 4564EW Sint-Jansteen</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerEmail</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>info@smuldersecommerce.nl</admarkt:attributeValue></admarkt:attribute></admarkt:attributes>
-    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>2d-5d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
+    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>1d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>8721161813439</admarkt:vendorId>
@@ -904,7 +904,7 @@
     <admarkt:brand>ToolLine</admarkt:brand>
     <admarkt:condition>new</admarkt:condition>
     <admarkt:attributes><admarkt:attribute><admarkt:attributeName>condition</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Nieuw</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerTradename</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Smulders e-commerce</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerAddress</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Carmen 10, 4564EW Sint-Jansteen</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerEmail</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>info@smuldersecommerce.nl</admarkt:attributeValue></admarkt:attribute></admarkt:attributes>
-    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>2d-5d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
+    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>1d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>8721161813446</admarkt:vendorId>
@@ -926,7 +926,7 @@
     <admarkt:brand>ToolLine</admarkt:brand>
     <admarkt:condition>new</admarkt:condition>
     <admarkt:attributes><admarkt:attribute><admarkt:attributeName>condition</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Nieuw</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerTradename</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Smulders e-commerce</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerAddress</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Carmen 10, 4564EW Sint-Jansteen</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerEmail</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>info@smuldersecommerce.nl</admarkt:attributeValue></admarkt:attribute></admarkt:attributes>
-    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>2d-5d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
+    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>1d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
   </admarkt:ad>
   <admarkt:ad>
     <admarkt:vendorId>8721161813453</admarkt:vendorId>
@@ -948,6 +948,6 @@
     <admarkt:brand>ToolLine</admarkt:brand>
     <admarkt:condition>new</admarkt:condition>
     <admarkt:attributes><admarkt:attribute><admarkt:attributeName>condition</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Nieuw</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerTradename</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Smulders e-commerce</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerAddress</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>Carmen 10, 4564EW Sint-Jansteen</admarkt:attributeValue></admarkt:attribute><admarkt:attribute><admarkt:attributeName>manufacturerEmail</admarkt:attributeName><admarkt:attributeLocale>nl_NL</admarkt:attributeLocale><admarkt:attributeValue>info@smuldersecommerce.nl</admarkt:attributeValue></admarkt:attribute></admarkt:attributes>
-    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>2d-5d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
+    <admarkt:shippingOptions><admarkt:shippingOption><admarkt:shippingType>SHIP</admarkt:shippingType><admarkt:cost>0</admarkt:cost><admarkt:time>1d</admarkt:time></admarkt:shippingOption></admarkt:shippingOptions>
   </admarkt:ad>
 </admarkt:ads>
